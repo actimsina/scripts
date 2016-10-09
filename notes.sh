@@ -7,6 +7,6 @@ else
 	FILENAME=$1
 fi
 
-FILE=~/notes/$FILENAME
+FILE=~/notes/$FILENAME.md	
 
 vim $FILE
